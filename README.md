@@ -5,7 +5,7 @@ The OpenTaxi Capacitor Plugin
 ## Install
 
 ```bash
-npm install @capacitor-community/opentaxi
+npm install @opentaxi/opentaxi-capacitor
 npx cap sync
 ```
 
