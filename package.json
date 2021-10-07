@@ -1,5 +1,5 @@
 {
-  "name": "@capacitor-community/opentaxi",
+  "name": "@opentaxi/opentaxi-capacitor",
   "version": "0.0.1",
   "description": "The OpenTaxi Capacitor Plugin",
   "main": "dist/plugin.cjs.js",
