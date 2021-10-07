@@ -1,4 +1,4 @@
-# @capacitor-community/opentaxi
+# @opentaxi/opentaxi-capacitor
 
 The OpenTaxi Capacitor Plugin
 
